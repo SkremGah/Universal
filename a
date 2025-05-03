@@ -1,0 +1,1698 @@
+print("nigga")
+task.wait(4)
+
+local Timer = 0
+task.spawn(function()
+	while true do
+		Timer = Timer + task.wait()
+	end
+end)
+
+repeat task.wait() until Timer >= 2.3998598999969545
+local args = {
+	"3",
+	"Vote"
+}
+game.ReplicatedStorage.Remotes.VotingFetch:FireServer(unpack(args))
+repeat task.wait() until Timer >= 14.945499299999938
+local args = {
+	"3",
+	"Vote"
+}
+game.ReplicatedStorage.Remotes.VotingFetch:FireServer(unpack(args))
+repeat task.wait() until Timer >= 36.690310100001625
+local args = {
+	"Mad_Commando_Jack",
+	CFrame.new(-3.968008518218994, 0.5000066757202148, 24.844694137573242, 1, 0, -0, -0, 1, -0, -0, 0, 1),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 41.1911487999987
+local args = {
+	"Infantry"
+}
+game.ReplicatedStorage.Remotes.UnitRemove:FireServer(unpack(args))
+repeat task.wait() until Timer >= 42.553709599992544
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Mad_Commando_Jack")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 80.42317019998336
+local args = {
+	"Infantry",
+	CFrame.new(-8.02375602722168, 0.5000066757202148, 12.797504425048828, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 97.9822302999919
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Mad_Commando_Jack")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 116.42443539997748
+local args = {
+	"Grenadier",
+	CFrame.new(-3.9431047439575195, 0.5000066757202148, 21.8311824798584, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 118.10607489998074
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Grenadier")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 119.43999889997576
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Grenadier")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 131.9190897999706
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Grenadier")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 164.7029137999525
+local args = {
+	"Bull",
+	CFrame.new(-8.04065227508545, 0.6000078320503235, 8.767675399780273, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 170.63236419995155
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 188.99139019996892
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 202.36741589994836
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 242.35063059995173
+local args = {
+	"Ballistic_Unit",
+	CFrame.new(-3.0392837524414062, 0.6000078320503235, 7.65168571472168, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 244.33220629995412
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 245.81566799995744
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 254.81211849994907
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 310.9959251999244
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 363.7896753999339
+local args = {
+	"Worker_Giant",
+	CFrame.new(-12.737951278686523, 0.6000078320503235, 7.057276725769043, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 365.82084679993295
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 366.47074579993387
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 367.4208303999376
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 368.6542889999364
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 375.59951239995644
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 390.97758779997093
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Mad_Commando_Jack")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 393.59642629997325
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Mad_Commando_Jack")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 403.38898829998107
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Mad_Commando_Jack")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 412.9342670999695
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Grenadier")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 431.6247348999659
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 453.1669367999939
+local args = {
+	"Worker_Giant",
+	CFrame.new(-8.261835098266602, 0.6000078320503235, 3.019524097442627, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 454.46530289999737
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 454.96655819999705
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 455.515777599996
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 456.19843249999667
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 457.3648819999971
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 463.6645079000027
+local args = {
+	"Worker_Giant",
+	CFrame.new(-3.276927947998047, 0.6000078320503235, 2.900819778442383, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 465.7288985000041
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 468.4112173000058
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 470.9425983000028
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 473.5762011999959
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 486.02150699999765
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 497.79909779998343
+local args = {
+	"Ballistic_Unit",
+	CFrame.new(1.9638524055480957, 0.5000066757202148, 7.571603775024414, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 502.0649247999927
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 505.76599640000404
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 507.39737210000385
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 509.12969960000464
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 545.1959848000315
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 553.3106013000242
+local args = {
+	"Worker_Giant"
+}
+game.ReplicatedStorage.Remotes.UnitRemove:FireServer(unpack(args))
+repeat task.wait() until Timer >= 573.1368784000106
+local args = {
+	"Bull",
+	CFrame.new(-13.618001937866211, 0.6000078320503235, 2.5503406524658203, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 575.4514634000006
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 576.7000202000036
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 577.8696645000009
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 579.2682276999985
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 586.7813089999981
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 593.8416529999931
+local args = {
+	"Torcher",
+	CFrame.new(-8.13341999053955, 0.5000066757202148, 23.66924285888672, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 595.880934899993
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Torcher")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 596.9445903999895
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Torcher")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 598.1400550999888
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Torcher")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 599.4126546999905
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Torcher")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 612.8055062000094
+local args = {
+	"Ballistic_Unit",
+	CFrame.new(-12.172754287719727, 2.049609422683716, 10.580397605895996, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Cliff"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 614.637979500013
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 615.627899100009
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 616.5545230000089
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 617.5171700000092
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 634.1629553999965
+local args = {
+	"Worker_Giant",
+	CFrame.new(-3.6543359756469727, 0.6000078320503235, -1.1851730346679688, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 635.6466750999953
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 636.2645796999932
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 636.8966396999931
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 637.529690599994
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 638.2136288999909
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 647.1077709999963
+local args = {
+	"Worker_Giant",
+	CFrame.new(-3.4654197692871094, 0.6000068783760071, 11.690293312072754, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 650.2587860999956
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 650.8065127999944
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 651.3730942999955
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 652.1562410999923
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 652.9405291999901
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 661.4368160999948
+local args = {
+	"Bull",
+	CFrame.new(-9.469260215759277, 0.6000078320503235, -1.6384572982788086, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 663.2366119000044
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 663.7503162000057
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 664.3571476000052
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 665.1717397000057
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 665.8861686000027
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 689.23909619999
+local args = {
+	"Bull",
+	CFrame.new(1.0476279258728027, 0.6000078320503235, 0.6105737686157227, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 691.9428289999978
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 692.5307560999954
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 693.020571099998
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 693.625527799998
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 694.4089377999944
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 699.3822105999961
+local args = {
+	"Bull",
+	CFrame.new(1.945089340209961, 0.6000068783760071, 12.234993934631348, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 701.2428243000004
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 701.9626065000002
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 702.8237789000013
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 704.4585811000006
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 705.3550742999987
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 708.5396995999945
+local args = {
+	"Bull",
+	CFrame.new(-11.98338794708252, 0.5000066757202148, 14.592788696289062, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 711.9432840999916
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 712.6016589999899
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 714.0324477999866
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 714.9456657999872
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 715.9336171999857
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 720.4384990999797
+local args = {
+	"Bull",
+	CFrame.new(-17.42240333557129, 0.5000066757202148, 8.76103687286377, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 722.2358579999773
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 722.934905599981
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 723.7078777999814
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 724.575056299981
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 725.6656049999801
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 741.9937475999723
+local args = {
+	"you do not have the permit to place here"
+}
+game.ReplicatedStorage.Remotes.SendError:FireServer(unpack(args))
+repeat task.wait() until Timer >= 743.0786393999715
+local args = {
+	"Worker_Giant",
+	CFrame.new(-14.96377182006836, 0.6000078320503235, -2.250807762145996, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 745.1270603999756
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 745.7314286999763
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 746.5975637999727
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 747.7151838999707
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 748.5668272999701
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 752.0761625999712
+local args = {
+	"Worker_Giant",
+	CFrame.new(-18.484037399291992, 0.5000066757202148, 0.9745922088623047, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 754.2110394999727
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 754.6759940999737
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 755.3588160999716
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 756.342871399971
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 757.3915607999697
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 760.805802099956
+local args = {
+	"Worker_Giant",
+	CFrame.new(-8.149312973022461, 0.6000078320503235, -6.267271041870117, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 762.3248198999554
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 762.6720064999572
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 763.1565673999612
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 763.7221998999557
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 764.4050609999576
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 768.9381955999579
+local args = {
+	"Worker_Giant",
+	CFrame.new(-13.04240894317627, 0.5000066757202148, -6.553802013397217, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 770.3946922999558
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 770.8959935999546
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 771.4906419999552
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 772.1372432999515
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 772.8181179999547
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 776.2684567999559
+local args = {
+	"Worker_Giant",
+	CFrame.new(-18.07530403137207, 0.5000066757202148, -6.26714563369751, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 778.3295586999566
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 778.972736599957
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 779.5640281999576
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 780.3180115999567
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 781.0470159999586
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 785.7169383999608
+local args = {
+	"Bull",
+	CFrame.new(-2.8829641342163086, 0.5000066757202148, 16.288654327392578, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 787.3768938999619
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 787.9616633999631
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 788.7627965999654
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 789.4282883999658
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 790.173471999964
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 797.4048403999668
+local args = {
+	"Bull",
+	CFrame.new(-2.5559167861938477, 0.6000078320503235, -5.771039962768555, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 799.5182815999669
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 800.1253055999632
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 800.8228987999646
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 801.4417936999662
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 802.1083436999661
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 806.5558732999616
+local args = {
+	"Bull",
+	CFrame.new(-8.322742462158203, 0.5000066757202148, 19.45209503173828, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 808.3406287999615
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 808.9172352999603
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 809.6099396999616
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 810.3720604999635
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 811.2285517999617
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 815.2315544999565
+local args = {
+	"Bull",
+	CFrame.new(-14.587749481201172, 0.5000066757202148, 19.66596794128418, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 817.4529628999562
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 817.4529628999562
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 817.4529628999562
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 817.643457899957
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 817.643457899957
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 817.6650752999567
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 817.8253556999571
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 817.8253556999571
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 821.462331699955
+local args = {
+	"Bull",
+	CFrame.new(-18.399953842163086, 0.5000066757202148, 14.869792938232422, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 822.8309103999536
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 822.8309103999536
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 822.8309103999536
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.0347579999534
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.0347579999534
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.0347579999534
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.2065426999534
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.2065426999534
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.2065426999534
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.4090421999545
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.4090421999545
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 823.4090421999545
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 825.1614749999544
+local args = {
+	"guh"
+}
+game.ReplicatedStorage.Remotes.SendError:FireServer(unpack(args))
+repeat task.wait() until Timer >= 825.8347180999535
+local args = {
+	"WHY THO"
+}
+game.ReplicatedStorage.Remotes.SendError:FireServer(unpack(args))
+repeat task.wait() until Timer >= 826.785354099954
+local args = {
+	"Bull",
+	CFrame.new(2.471409797668457, 0.5000066757202148, 18.048994064331055, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 828.9910625999573
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 828.9910625999573
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 829.1911377999577
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 829.1911377999577
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 829.1911377999577
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 829.3938308999586
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 829.3938308999586
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 829.3938308999586
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 832.6239043999585
+local args = {
+	"Bull",
+	CFrame.new(-12.350141525268555, 0.5000066757202148, 24.868751525878906, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 834.4510822999591
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 834.474362599959
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 834.6658093999595
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 834.6658093999595
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 834.6658093999595
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 834.8413606999593
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 834.8413606999593
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 840.5517917999641
+local args = {
+	"Bull",
+	CFrame.new(3.560821533203125, 0.6000078320503235, -5.228394508361816, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 841.6111725999644
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 841.683395999964
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 841.7535677999631
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 841.8085621999635
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 841.8770872999648
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 841.9274705999642
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 842.0023842999644
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 843.5363647999666
+local args = {
+	"Bull",
+	CFrame.new(1.4832830429077148, 0.5000066757202148, 23.12503433227539, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 844.6504043999694
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 844.7097004999687
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 844.767131999969
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 844.9208389999703
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 844.9911551999703
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 845.0460760999704
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 847.7967056999678
+local args = {
+	"STOP"
+}
+game.ReplicatedStorage.Remotes.SendError:FireServer(unpack(args))
+repeat task.wait() until Timer >= 848.4626581999664
+local args = {
+	"Bull",
+	CFrame.new(-18.28680419921875, 0.5000066757202148, 23.9332218170166, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 849.7507201999651
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 849.9994245999642
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 849.9994245999642
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 849.9994245999642
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 849.9994245999642
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 850.1816274999637
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 850.1816274999637
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 853.4676116999653
+local args = {
+	"Bull",
+	CFrame.new(-22.032421112060547, 0.5000066757202148, 19.69634246826172, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 854.5262430999628
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 854.5833040999632
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 854.6578918999639
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 854.7006535999635
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 854.7639501999629
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 854.8305739999641
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 857.0192314999658
+local args = {
+	"guh"
+}
+game.ReplicatedStorage.Remotes.SendError:FireServer(unpack(args))
+repeat task.wait() until Timer >= 857.8344220999652
+local args = {
+	"Bull",
+	CFrame.new(-9.19536018371582, 0.5000066757202148, 29.98851776123047, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.0779576999621
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.0779576999621
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.3386125999614
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.3386125999614
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.3386125999614
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.3386125999614
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.5431832999611
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.5431832999611
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 859.5431832999611
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 862.5785834999715
+local args = {
+	"Bull",
+	CFrame.new(-15.53132438659668, 0.5000066757202148, 30.210290908813477, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 863.6847935999749
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 863.7646167999746
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 863.8321582999752
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 863.8928408999755
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 863.9575709999763
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 864.0052890999768
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 864.0884071999753
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 864.1444885999754
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 864.1904734999753
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Bull")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 865.9178545999785
+local args = {
+	"try something else"
+}
+game.ReplicatedStorage.Remotes.SendError:FireServer(unpack(args))
+repeat task.wait() until Timer >= 867.7894910999767
+local args = {
+	"Bull"
+}
+game.ReplicatedStorage.Remotes.UnitRemove:FireServer(unpack(args))
+repeat task.wait() until Timer >= 871.6229523999755
+local args = {
+	"your unit doesnt like that place"
+}
+game.ReplicatedStorage.Remotes.SendError:FireServer(unpack(args))
+repeat task.wait() until Timer >= 872.4824385999736
+local args = {
+	"Worker_Giant",
+	CFrame.new(-1.2677392959594727, 0.5000066757202148, 27.78493881225586, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 874.7061314999728
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 874.7061314999728
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 874.7061314999728
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 874.7061314999728
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 874.7061314999728
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 874.7586338999736
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 874.8057612999746
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 877.8601252999779
+local args = {
+	"Worker_Giant",
+	CFrame.new(3.880936622619629, 0.5000066757202148, 27.973731994628906, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.1099251999758
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.182668499976
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.2320218999766
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.2956561999763
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.5954433999768
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.5954433999768
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.5954433999768
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.5954433999768
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.6229046999761
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 879.6961343999765
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Worker_Giant")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 881.6239883999797
+local args = {
+	"you monster"
+}
+game.ReplicatedStorage.Remotes.SendError:FireServer(unpack(args))
+repeat task.wait() until Timer >= 883.404007099979
+local args = {
+	"Worker_Giant"
+}
+game.ReplicatedStorage.Remotes.UnitRemove:FireServer(unpack(args))
+repeat task.wait() until Timer >= 892.0354633999787
+local args = {
+	"Ballistic_Unit",
+	CFrame.new(-1.9323749542236328, 0.5000066757202148, 32.685970306396484, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 893.8463131999788
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 893.8463131999788
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 893.8463131999788
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 893.8463131999788
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 894.1345601999792
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 894.1345601999792
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 894.1345601999792
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 894.1345601999792
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 894.1633071999795
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 894.4163152999799
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 894.4163152999799
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 894.4163152999799
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 900.7591011999793
+local args = {
+	"Ballistic_Unit",
+	CFrame.new(-6.552136421203613, 0.5000066757202148, 35.03944396972656, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.083212399979
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.083212399979
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.083212399979
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.4567043999787
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.4567043999787
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.4567043999787
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.4567043999787
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.4567043999787
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.4951500999787
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.7897219999786
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.7897219999786
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.7897219999786
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.7897219999786
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 903.7897219999786
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 916.6603455999757
+local args = {
+	"Ballistic_Unit",
+	CFrame.new(-11.953559875488281, 0.5000066757202148, 34.53837966918945, 0.7071068286895752, 0, 0.7071067690849304, -0, 1, -0, -0.7071068286895752, 0, 0.7071067690849304),
+	false,
+	"Ground"
+}
+game.ReplicatedStorage.Remotes.UnitPlace:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.1437790999753
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.1437790999753
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.1437790999753
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.1437790999753
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.170220799976
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.4761565999761
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.4761565999761
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.4761565999761
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
+repeat task.wait() until Timer >= 922.4761565999761
+local args = {
+	workspace:WaitForChild("Units"):WaitForChild("Ballistic_Unit")
+}
+game.ReplicatedStorage.Remotes.UnitUpgrade:FireServer(unpack(args))
